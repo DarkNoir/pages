@@ -1,7 +1,10 @@
 # pages
 Repo for pages
+
 Domain : a specified sphere of activity or knowledge
+
 INTJ 
+
 Domain driven Cognition
 ___
 - Pattern‑Dominant Cognition

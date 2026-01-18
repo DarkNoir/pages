@@ -10,5 +10,6 @@ Semantic‑dominant, pattern‑driven cognition with systems‑first processing
 - Weak Temporal Processing / Low Chronological Encoding
 - Semantic‑Dominant Memory Organization
 - High‑Level Integrative Cognition
+
 ---
 Semantic‑dominant, pattern‑driven cognition with weak temporal sequencing   

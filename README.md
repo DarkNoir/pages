@@ -1,5 +1,5 @@
 # William Wallace
-## Architecture Notebook
+
 
 ## About Me
 I work from the structure of the domain, not from patterns or frameworks. My background isn’t defined by formal training or adherence to established methodologies. My work has always grown out of the realities of the problem space itself — the constraints, the boundaries, and the pressures that shape what a system can become.
@@ -8,7 +8,7 @@ I document these systems not to highlight myself, but to make the reasoning visi
 
 ---
 
-## Opening Page
+## Architecture Notebook
 
 Architecture is often described in terms of patterns, frameworks, and abstractions — as if the work begins with a catalog of shapes and the task is to choose the right one.  
 My experience has never worked that way.

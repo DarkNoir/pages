@@ -36,4 +36,4 @@ These entries are my attempt to make that visible.
 ## Entries
 
 - [The Early Web Affiliate Discovery Engine](./articles/The%20Early%20Web%20Affiliate%20Discovery%20Engi.md)
-- More entries coming soon.
+- [The Real Leverage Point in Software Isn’t Where AI Agents Operate](./articles/aiagencyandcoding.html)
